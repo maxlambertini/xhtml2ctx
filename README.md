@@ -23,4 +23,9 @@ nevertheless add its own flair to produce a final document with the desired layo
 * __--span-classes=class1,class2,..,class-n__ : SPANs whose class attributes match the ones in the list are converted into custom character-level macros. 
 * __-t, --floating-tables__ : Tables are treated as floating objects
 
+### Future Developments
+
+* Adding an option to tell XHTML2CTX what the root element is, something similar to JQuery selectors
+* Leveraging ConTeXt's environment features. 
+
 
